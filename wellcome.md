@@ -21,7 +21,7 @@ Neste repositório estão:
 - Códigos comentados para facilitar a revisão  
 - O desenvolvimento passo a passo do projeto ensinado no curso
 
-> ⚠️ O resultado final desse projeto está disponível no repositório [**Portifolios**](https://github.com/seu-usuario/Portifolios).
+> ⚠️ O resultado final desse projeto está disponível no repositório [**Portifolios**](https://github.com/JonathanBufon/Portifolios).
 
 ## 🚀 Como utilizar
 
